@@ -4,4 +4,4 @@
 
 # I HAVE CONNECTED DATABASE THE NAME IS POSTGRESQL 
 
-# To check my project click in this link  <href="https://2103a51526.github.io/Smart-restaurant-System/">
+#To check my project click in this link https://2103a51526.github.io/Smart-restaurant-System/
